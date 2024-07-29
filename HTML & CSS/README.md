@@ -27,11 +27,10 @@ This document provides an overview of the Landing Page project, including setup 
 
 - **HTML5**
 - **CSS3**
-- **JavaScript**
 
 ## Usage
 
-- **Customize Content:** Edit the HTML, CSS, and JavaScript files to add your own content and adjust the styling.
+- **Customize Content:** Edit the HTML and CSS files to add your own content and adjust the styling.
 
 ## Contact
 
